@@ -21,4 +21,5 @@ RedM gold mining script for Vorp Framework
 
 ======================================
 
-- For this script I used vorp_graverobbing and added to it to make it into a mining scriptso all props to the creators of that script 
+- For this script I used vorp_graverobbing and added to it to make it into a mining script so all props to the creators of that script
+Hope you enjoy this it has a mini game for mining rocks
