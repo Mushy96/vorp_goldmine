@@ -13,7 +13,7 @@ RedM gold mining script for Vorp Framework
 
 - add vorp_goldmine files to [vorp_resources] - MUST GO IN [VORP_RESOURCES]
 - Add ```ensure vorp_goldmine``` in your server.cfg
-- Add items are in ```items.sql``` to your database if needed
+- Add items in ```items.sql``` to your database if needed
 
 ## 3. Support
 - To get support --> [Discord](http://discord.vorpcore.com/)
