@@ -9,6 +9,8 @@ RedM gold mining script for Vorp Framework
 
 - [VORP-Inventory](https://github.com/VORPCORE/VORP-Inventory)
 
+- Syn_Minigame
+
 ## 2. Installation
 
 - add vorp_goldmine files to [vorp_resources] - MUST GO IN [VORP_RESOURCES]
