@@ -21,4 +21,4 @@ RedM gold mining script for Vorp Framework
 
 ======================================
 
-- This script is a edit of vorp_graverobbing so all props to the creators of that script i just changed things to make this work as a mining script 
+- For this script I used vorp_graverobbing and added to it to make it into a mining scriptso all props to the creators of that script 
